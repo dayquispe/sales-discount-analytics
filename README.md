@@ -1,4 +1,4 @@
-<img src="img/image_ecommerce.png" width="100%">
+<img src="img/imgecommerce.png" width="100%">
 
 ## 1. Problema de Negócio
 Uma empresa de e-commerce busca entender como os descontos impactam a receita e o comportamento de compra dos clientes, a fim de otimizar estratégias de precificação e maximizar o faturamento.
